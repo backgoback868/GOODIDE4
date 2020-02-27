@@ -1,12 +1,15 @@
-# BruteFb
-HACK FACEBOOK DENGAN METODE BRUTEFORCE DI TERMUX
-# Cara Install
-### $ pkg update && pkg upgrade
-## $ pkg install git
-## $ pkg install python
-## $ pip install requests
-## $ pip install bs4
-## $ git clone https://github.com/FR13ND8/BruteFb
-## $ cd BruteFb
-## $ python fb.py
-# OK SEKIAN DARI GUA JANGAN LUPA KLIK BINTANG/STAR
+# darkfb
+Script dark fb v1.7 terbaru
+
+# cara menggunakan
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>http://termux.id/cara-hack-facebook-menggunakan-termux-script-dark-fb/</code></pre>
+<!-- /wp:code -->
+
+# tetap terhubung
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>http://termux.id/</code></pre>
+<pre class="wp-block-code"><code>http://storiku.xyz</code></pre>
+<!-- /wp:code -->
