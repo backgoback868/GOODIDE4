@@ -1,15 +1,9 @@
-# darkfb
-Script dark fb v1.7 terbaru
+# WiFi Bruteforcer - Fsecurify
+**WARNING:** This project is still under development and by installing the app may desconfigure the Wi-Fi settings of your Android OS, a system restore may be necessary to fix it.
 
-# cara menggunakan
+Android application to brute force WiFi passwords without requiring a rooted device.
 
-<!-- wp:code -->
-<pre class="wp-block-code"><code>http://termux.id/cara-hack-facebook-menggunakan-termux-script-dark-fb/</code></pre>
-<!-- /wp:code -->
+![Alt text](1280.jpg?raw=true "Fsecurify")
 
-# tetap terhubung
-
-<!-- wp:code -->
-<pre class="wp-block-code"><code>http://termux.id/</code></pre>
-<pre class="wp-block-code"><code>http://storiku.xyz</code></pre>
-<!-- /wp:code -->
+DownloadLink:
+http://fsecurify.com/wifi-bruteforcer-android-app-to-crack-wifi-passwords/
